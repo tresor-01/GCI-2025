@@ -35,11 +35,12 @@ The work covers data cleaning, exploratory data analysis (EDA), rich visualisati
 ## Project Structure
 
 ```
-FinalAssignment/
+GCI-2025/
 ├── FinalAssignment.ipynb   # Main notebook
-├── final.md                # This file
-└── dataset/
-    └── data.csv            # Employee dataset
+├── README.md                # This file
+|── data.csv  # Employee dataset
+|──submission.csv
+|── GCI Final Assignemnt Slides.pdf     
 ```
 
 ---
